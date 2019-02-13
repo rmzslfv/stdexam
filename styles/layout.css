@@ -412,3 +412,19 @@ table a, #comments a{background-color:inherit;}
 	text-align: justify
 }
 
+#hey{
+	background-image:url('../images/demo/backgrounds/01.png');
+}
+
+#bye{
+	text-align: justify;font-family: Comic Sans MS;
+}
+#opa{
+	text-align: justify;font-family: Comic Sans MS;font-style: italic;font-weight:600;
+}
+#okey{
+	background-color: silver;
+}
+#sit{
+	color: black !important;
+}

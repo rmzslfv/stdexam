@@ -31,13 +31,13 @@
     </nav>
   </div>
 </div>
-<div class="wrapper bgded overlay" style="background-image:url('../images/demo/backgrounds/01.png');">
+<div class="wrapper bgded overlay" id="hey">
   <nav2 id="breadcrumb" class="hoc clear"> 
 
     </nav>
   </div>
 </div>
-<div class="wrapper bgded overlay" style="background-image:url('../images/demo/backgrounds/01.png');">
+<div class="wrapper bgded overlay" id="hey">
   <div id="breadcrumb" class="hoc clear"> 
 
     <ul>
@@ -62,9 +62,9 @@
 Докато синтаксиса на Kotlin не е съвместим с Java, Kotlin e проектиран да взаимодейства с Java код и е зависим от Java кода в съществуващите Java Class Library, като например collections framework-a. Тази двойственост е целенасочено залегнала в разработката на Kotlin, като позволява на компаниите и отделните разработчици постепенна миграция от Java към Kotlin.</p>
       <p class="text2" >
 
-	  <p style="text-align: justify;font-family: Comic Sans MS;">Kotlin e статично-типизиран програмен език, който върви на Java виртуална машина и може да бъде компилиран заедно с JavaScript source code или да използва компилатор с LLVM* структура. Името идва от о-в Котлин, финския залив, в близост до Кронщад.
+	  <p id="bye">Kotlin e статично-типизиран програмен език, който върви на Java виртуална машина и може да бъде компилиран заедно с JavaScript source code или да използва компилатор с LLVM* структура. Името идва от о-в Котлин, финския залив, в близост до Кронщад.
 Докато синтаксиса на Kotlin не е съвместим с Java, Kotlin e проектиран да взаимодейства с Java код и е зависим от Java кода в съществуващите Java Class Library, като например collections framework-a. Тази двойственост е целенасочено залегнала в разработката на Kotlin, като позволява на компаниите и отделните разработчици постепенна миграция от Java към Kotlin.</p>
-      <p style="text-align: justify;font-family: Comic Sans MS;font-style: italic;font-weight:600;">
+      <p id="opa">
 
 	  Синтаксис и семантика
 При списъците на параметрите и декларациите на променливите Котлин разполага типа данни след името на променливата, отделен с двуеточие, подобно на Паскал. Подобно на езиците Scala и Groovy точката и запетаята са по избор в ролята си на декларация; в повечето случаи нов ред е достатъчен за компилатора да стигне до извода, че дадена декларация е приключила.
@@ -79,10 +79,9 @@ Kotlin прави разграничение между нулируеми и н
 - Поддържа се интеграция с общи Java build инструменти, като Apache Maven, Apache Ant и Gradle;
 - И разбира се Android Studio.
 	  </p>
-	  
 	  <div id="comments">
         <h2>Коментари</h2>
-        <ul style="background-color: silver;">
+        <ul id="okey">
           <li>
             <article>
               <header>
@@ -157,9 +156,9 @@ Kotlin прави разграничение между нулируеми и н
 
       <div class="sdb_holder">
 =======
-      <div style="background-color: silver;" class="sdb_holder">
+      <div id="okey" class="sdb_holder">
 
-        <ul style="color: black !important;">
+        <ul id="sit">
           <li><a href="#">Navigation - Level 1</a></li>
           <li><a href="#">Navigation - Level 1</a>
             <ul>
