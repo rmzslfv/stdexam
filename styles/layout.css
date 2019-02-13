@@ -274,6 +274,9 @@ input:focus, textarea:focus, *:required:focus{border-color:#B97D2D;}
 /* Footer */
 #footer #copyright a{color:inherit; background-color:inherit;}
 
+.p{
+	text-align: justify;font-family: Comic Sans MS;
+}
 
 /* Navigation */
 #mainav li a{color:inherit;}
@@ -384,3 +387,4 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
 }
+
