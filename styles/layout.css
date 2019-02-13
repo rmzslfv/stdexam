@@ -20,7 +20,7 @@
 #topbar ul li{display:inline-block; margin-right:10px; padding-right:15px; border-right:1px solid;}
 #topbar ul li:last-child{margin-right:0; padding-right:0; border-right:none;}
 #topbar i{margin:0 5px 0 0; line-height:normal;}
-<<<<<<< HEAD
+
 .p{
 	text-align: justify;font-family: Comic Sans MS;
 }
@@ -29,9 +29,7 @@
 	
 
 }
-=======
 
->>>>>>> 3df638b247e20af652823f79e197e0533550d80c
 
 /* Header
 --------------------------------------------------------------------------------------------------------------- */
@@ -399,13 +397,12 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
 }
-<<<<<<< HEAD
+
 .text2{
 	text-align: justify;font-family: Comic Sans MS;font-style: italic;font-weight:600;
 }
 
 
-=======
 
 .footer{
 	color: silver;
@@ -414,4 +411,4 @@ table a, #comments a{background-color:inherit;}
 .txtInfo{
 	text-align: justify
 }
->>>>>>> 3df638b247e20af652823f79e197e0533550d80c
+
