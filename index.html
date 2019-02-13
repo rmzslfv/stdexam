@@ -36,13 +36,13 @@
 </div>
 
 
-<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/01.png');">
+<div  class="wrapper bgded overlay" id="wrap"">
   <div id="pageintro" class="hoc clear"> 
     <article>
       <p class="heading">Информационни технологии</p>
-      <h2 class="heading" style="color: orange;"><span class="block" style="color: lightblue;">Бъдещето е в </span> НАС !</h2>
+      <h2 class="heading"><span class="block" id="block" ">Бъдещето е в </span> НАС !</h2>
 
-      <footer><a href="#" style="color: silver;">Прочети повече &raquo;</a></footer>
+      <footer><a href="#" id="ab">Прочети повече &raquo;</a></footer>
 
       <footer><a class="footer" href="#"">Прочети повече &raquo;</a></footer>
 
@@ -57,7 +57,7 @@
         <div class="table-cell">
           <article><a href="#"><i class="fa fa-key"></i></a>
             <h6 class="heading">Информационни технологии</h6>
-            <p style="text-align: justify;">Понятието „информационни технологии“ в съвременния си смисъл е използвано за пръв път през 1958 
+            <p class="p2" ">Понятието „информационни технологии“ в съвременния си смисъл е използвано за пръв път през 1958 
 			година в статия в Харвард Бизнес Ревю, където авторите Харолд Лийвит и Томас Уислър отбелязват, 
 			че „новата технология все още няма определено наименование. Ние ще я наричаме информационна технология (ИТ)“.</p>
             <footer><a href="#">Прочети повече &raquo;</a></footer>
@@ -67,7 +67,7 @@
           <article><a href="#"><i class="fa fa-lastfm"></i></a>
             <h6 class="heading">Теоретична основа</h6>
 
-            <p style="text-align: justify;">В центъра на информационните технологии е информацията – тяхната основна задача е автоматизиране и систематизиране на работата 
+            <p class="p2" >В центъра на информационните технологии е информацията – тяхната основна задача е автоматизиране и систематизиране на работата 
 
             <p class="txtInfo">В центъра на информационните технологии е информацията – тяхната основна задача е автоматизиране и систематизиране на работата 
 
@@ -80,7 +80,7 @@
           <article><a href="#"><i class="fa fa-angellist"></i></a>
             <h6 class="heading">Изчислителна техника</h6>
 
-            <p style="text-align: justify;">Информационните технологии използват за обработка и съхранение на информация електронноизчислителни машини – компютри. 
+            <p class="p2" ">Информационните технологии използват за обработка и съхранение на информация електронноизчислителни машини – компютри. 
 
             <p class="txtInfo" ">Информационните технологии използват за обработка и съхранение на информация електронноизчислителни машини – компютри. 
 
@@ -105,7 +105,7 @@
     <!-- ################################################################################################ -->
     <div class="center btmspace-80">
       <h3 class="heading">Специализирани крайни устройства</h3>
-      <p class="nospace" style="display: none;">&fgdlgdgdfl gldfl gldfl glfld</p>
+      <p class="nospace" ></p>
     </div>
     <ul class="nospace group cta">
       <li class="one_third first">
@@ -135,7 +135,7 @@
   </main>
 </div>
 
-<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/02.png');">
+<div class="wrapper bgded overlay" id="sharp">
   <article class="hoc container clear center"> 
 
     <h3 class="heading">C Sharp</h3>
@@ -163,7 +163,7 @@
         </ul>
         <hr>
 
-        <p style="text-align: justify;">По това време езикът и платформата Java, изградени върху същите концепции, се радват на огромен успех във всички сфери на разработката на софтуер и разработката на C# и .NET е естественият отговор на Microsoft срещу успехите на Java технологията.</p>
+        <p class="p2" ">По това време езикът и платформата Java, изградени върху същите концепции, се радват на огромен успех във всички сфери на разработката на софтуер и разработката на C# и .NET е естественият отговор на Microsoft срещу успехите на Java технологията.</p>
 
         <p class="txtInfo" ">По това време езикът и платформата Java, изградени върху същите концепции, се радват на огромен успех във всички сфери на разработката на софтуер и разработката на C# и .NET е естественият отговор на Microsoft срещу успехите на Java технологията.</p>
 
@@ -179,7 +179,7 @@
         </ul>
         <hr>
 
-        <p style="text-align: justify;">Тъй като оригиналната версия на езика C# и платформата .NET са само за Windows се появява проекта Mono. 
+        <p class="p2" ">Тъй като оригиналната версия на езика C# и платформата .NET са само за Windows се появява проекта Mono. 
 
         <p class="txtInfo" ">Тъй като оригиналната версия на езика C# и платформата .NET са само за Windows се появява проекта Mono. 
 
@@ -198,7 +198,7 @@
         </ul>
         <hr>
 
-        <p style="text-align: justify;">Mono сваля бариерите за създаване на качествен софтуер за Linux с езика C#. 
+        <p class="p2">Mono сваля бариерите за създаване на качествен софтуер за Linux с езика C#. 
 
         <p class="txtInfo" ">Mono сваля бариерите за създаване на качествен софтуер за Linux с езика C#. 
 

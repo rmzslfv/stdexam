@@ -25,6 +25,10 @@
 	text-align: justify;font-family: Comic Sans MS;
 }
 
+.p2{
+	text-align: justify;
+}
+
 .navstyle{
 	
 
@@ -46,7 +50,7 @@
 #pageintro{padding:150px 0;}
 
 #pageintro article *{text-transform:uppercase;}
-#pageintro article .heading{margin:0 0 50px 0; padding:0; line-height:1; font-size:64px;}
+#pageintro article .heading{margin:0 0 50px 0; padding:0; line-height:1; font-size:64px;color: orange;}
 #pageintro article p:first-of-type{margin-bottom:20px; font-size:26px;}
 #pageintro article footer{margin-top:80px;}
 #pageintro article footer a{padding-bottom:5px; border-bottom:2px solid;}
@@ -412,3 +416,21 @@ table a, #comments a{background-color:inherit;}
 	text-align: justify
 }
 
+#wrap{
+	background-image:url('images/demo/backgrounds/01.png');
+}
+
+#ab{
+	color: silver;
+}
+
+#block{
+	color: lightblue;
+}
+
+.nospace{
+	display: none;
+}
+#sharp{
+	background-image:url('images/demo/backgrounds/02.png');
+}
