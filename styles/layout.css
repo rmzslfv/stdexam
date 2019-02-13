@@ -389,3 +389,7 @@ table a, #comments a{background-color:inherit;}
 .footer{
 	color: silver;
 }
+
+.txtInfo{
+	text-align: justify
+}
